@@ -1,6 +1,6 @@
 ### Hello, I'm Marco! 👋
 
-I'm building things with Javascript, Typescript, and Ruby. I also like to play around with C/C++ when I have some free time. Some might call me a full-stack engineer, but I'm just a dev<br>
+I'm building things with Javascript, Typescript, and Ruby. I also like to play around with C/C++ when I have some free time.
 
 
 ### Find me elsewhere 🌎
