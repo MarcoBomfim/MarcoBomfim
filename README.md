@@ -18,10 +18,8 @@ I'm building things with Javascript, Typescript. I also like to play around with
 
 ### Stats 📉
 
-[![Marco Bomfim Github Stats](https://github-readme-stats.vercel.app/api?username=MarcoBomfim&count_private=true&show_icons=true&theme=nightowl)](https://github.com/MarcoBOmfim) 
-[![Marco Bomfim Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=MarcoBomfim&show_icons=true&theme=nightowl)](https://github.com/MarcoBomfim)
-
+[![Marco Bomfim Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=MarcoBomfim&show_icons=true&theme=transparent)](https://github.com/MarcoBomfim)
+[![Marco Bomfim Github Stats](https://github-readme-stats.vercel.app/api?username=MarcoBomfim&count_private=true&show_icons=true&theme=transparent)](https://github.com/MarcoBOmfim)
 
 <br />
 <br />
-
