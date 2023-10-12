@@ -1,10 +1,9 @@
 ### Hello, I'm Marco! 👋
 
-I'm building things with Javascript, Typescript. I also like to play around with lower level stuff when I have some free time.
+I'm *breaking* things with Javascript.
 
 ### Find me elsewhere 🌎
 
-🐦 [Twitter](https://twitter.com/MarcoABomfim1) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/MarcoBomfim) <br>
 
 ### My technology Stack 👨‍💻
